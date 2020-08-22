@@ -1,0 +1,49 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    color: #373A3C;
+}
+
+header {
+    background-image: url(../img/bg_hero.png);
+    height: 40rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 72pt;
+}
+
+hr {
+    background-color: black;
+    width: 10%;
+}
+
+.subrayado {
+    background-color: #ffffff;
+}
+
+.color-morado {
+    background-color: #660066;
+}
+
+.experiencia-anterior {
+    color: #660066;    
+}
+
+.encabezado {
+    padding-top: 300px;
+}
+
+.about-title {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.about-p {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 3;
+}
+
+.card-text {
+    font-family: 'Open Sans', sans-serif;
+}
