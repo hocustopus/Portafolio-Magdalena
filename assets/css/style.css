@@ -5,7 +5,7 @@ body {
 
 header {
     background-image: url(../img/bg_hero.png);
-    height: 40rem;
+    height: 737px;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -46,4 +46,8 @@ hr {
 
 .card-text {
     font-family: 'Open Sans', sans-serif;
+}
+
+.card-body {
+    min-height: 150px;
 }
